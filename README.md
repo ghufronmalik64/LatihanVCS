@@ -1,11 +1,16 @@
-# Latihan VCS
+**Nama    :   Ghufron Malik**
+**NIM     :   312210559**
+**Kelas   :   TI.22.B2**
+
+
+# Latihan VCS - Cara Menggunakan Git
 
 
 ## 1. Dwonload Git
 
-Pastikan kalian sudah mendwonload Git terlebih dahulu
+Pastikan anda sudah mendwonload Git. Bila belum bisa klik url dibawah
 
-- *https://git-scm.com/downloads*
+> *https://git-scm.com/downloads* 
 
 ![img 1](image/image1.png)
 
@@ -14,8 +19,8 @@ Pastikan kalian sudah mendwonload Git terlebih dahulu
 
 Lalu masukan nama atau email agar tidak terjadi kesalahan saat kalian melakukan perintah git commit.
 
-* $git config --global user.name "username anda"
-* $git config --global user.email "email anda"
+> **$git config --global user.name "username anda"**
+> **$git config --global user.email "email anda"**
 
 ![img 2](image/image2.png)
 
@@ -53,8 +58,8 @@ Setelah membuat folder baru, klik kanan pada folder tersebut, lalu klik "Git Bas
 
 Buat folder baru dan arahkan Git Bash pada file direktori
 
-* $mkdir tutorial
-* $cd tutorial
+> **$mkdir tutorial**
+> **$cd tutorial**
 
 ![img 8](image/image8.png)
 
@@ -63,56 +68,56 @@ Buat folder baru dan arahkan Git Bash pada file direktori
 
 Tambahkan judul atau Header ke dalam file README.md yang nantinya akan dimasukan ke dalam Repositori yang kita buat
 
-* $echo "#latihanvcs" >> README.md
+> **$echo "#latihanvcs" >> README.md**
 
 ![img 9](image/image9.png)
 
 
 ## 8. Membuat Repositori Lokal
 
-Kemudian buat Repositori lokal menggunakan perintah *git init*
+Kemudian buat Repositori lokal menggunakan perintah **git init**
 
-* $git init
+> **$git init**
 
 ![image 10](image/image10.png)
 
 
 ## 9. Memasukan file README.md ke Repositori
 
-Masukan file README.md yang diberi judul tadi kedalam Repositori menggunakan perintah *git add*
+Masukan file README.md yang diberi judul tadi kedalam Repositori menggunakan perintah **git add**
 
-* $git add README.md
+> **$git add README.md**
 
 ![image 11](image/image11.png)
 
 
 ## 10. Mengonfirmasi Perubahan
 
-Bila sudah ditambahkan, simpan dan konfirmasi perubahan dengan komentar menggunakan perintah *git commit -m "contoh commit"*
+Bila sudah ditambahkan, simpan dan konfirmasi perubahan dengan komentar menggunakan perintah **git commit -m "contoh commit"**
 
-* $git commit -m "commit pertama"
+> **$git commit -m "commit pertama"**
 
 ![image 12](image/image12.png)
 
 
 ## 11. Menambahkan Repositori Jarak Jauh
 
-Remote Repositori merupakan server repositori yang akan digunakan untuk menyimpan setiap perubahan pada repositori lokal, sehingga dapat diakses oleh banyak pengguna. caranya gunakan perintah *git remote add origin 'url'
+Remote Repositori merupakan server repositori yang akan digunakan untuk menyimpan setiap perubahan pada repositori lokal, sehingga dapat diakses oleh banyak pengguna. caranya gunakan perintah **git remote add origin 'url'**
 
-* $git remote add origin https://github.com/ghufronmalik64/latihanvcs.git
+> **$git remote add origin https://github.com/ghufronmalik64/latihanvcs.git**
 
 ![image 13](image/image13.png)
 
 ## 12. Mengirim perubahan
 
-Untuk mengirim perubahan pada Repositori lokal ke server gunakan perintah *git push -u origin 'branch'*
+Untuk mengirim perubahan pada Repositori lokal ke server gunakan perintah **git push -u origin 'branch'**
 
-* $git push -u origin master
+> **$git push -u origin master**
 
 ![image 14](image/image14.png)
 
 ## Dan terakhir anda bisa cek hasil Repositori pada Website GitHub
 
 
-# _____________________________________________________
+# _______________________________________________________
 # DI KASIH TUGAS HARI SENIN. TERIMAKASIH SUDAH NEMENIN. 
