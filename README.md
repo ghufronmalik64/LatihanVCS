@@ -46,7 +46,7 @@ Buat folder baru di lokal disk anda
 
 Setelah membuat folder baru, klik kanan pada folder tersebut, lalu klik "Git Bash Here". Maka akan muncul aplikasi Pop-up Git Bash
 
-![img 7](image/image7.png.)
+![img 7](image/image7.png)
 
 
 ## 6. Membuat Folder Pada Git Bash
@@ -109,9 +109,10 @@ Untuk mengirim perubahan pada Repositori lokal ke server gunakan perintah *git p
 
 * $git push -u origin master
 
-1[image 14](image/image14.png)
+![image 14](image/image14.png)
 
 ## Dan terakhir anda bisa cek hasil Repositori pada Website GitHub
 
 
-# SEDIKIT STRESS TAPI GAPAPA. 
+# _____________________________________________________
+# DI KASIH TUGAS HARI SENIN. TERIMAKASIH SUDAH NEMENIN. 
